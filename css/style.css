@@ -9,6 +9,10 @@ body {
   font-family: 'Asap', sans-serif;
 }
 
+h1{
+  margin-bottom: 2px;
+}
+
 h4 {
   display: inline-block;
   margin-bottom: 0;
